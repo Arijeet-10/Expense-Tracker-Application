@@ -8,7 +8,6 @@ A comprehensive, fully responsive financial management application built using t
 ## 📸 App Screenshots
 
 <div align="center">
-  [Dashboard 1](https://github.com/user-attachments/assets/a98d26f8-47d2-46e1-8114-47216da686b8)
 
 
  <div style="display: flex; justify-content: space-between;">
@@ -25,23 +24,24 @@ A comprehensive, fully responsive financial management application built using t
       <img src="https://github.com/user-attachments/assets/381a3f9e-7063-4ccd-a9ef-27db7fad491f" width="380px" />
       <p><i>Income management interface</i></p>
     </div>
+    <br />
     <div>
       <img src="https://github.com/user-attachments/assets/5a950ad0-cfff-4ea2-a61a-81d9c7d91bac" width="380px" />
       <p><i>Expense tracking with categories</i></p>
     </div>
   </div>
   
-
-
   <br />
   
   <div style="display: flex; justify-content: space-between;">
     <div>
-      <img src="/api/placeholder/380/250" alt="Mobile View" width="380px" />
+      <img src="https://github.com/user-attachments/assets/6506d106-0642-4dd5-85b0-022b3518bc6b" alt="Mobile View" width="380px" />
       <p><i>Responsive mobile interface</i></p>
     </div>
   </div>
 </div>
+
+
 
 ## ✨ Features
 
