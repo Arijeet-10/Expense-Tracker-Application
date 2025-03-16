@@ -11,21 +11,27 @@ A comprehensive, fully responsive financial management application built using t
   [Dashboard 1](https://github.com/user-attachments/assets/a98d26f8-47d2-46e1-8114-47216da686b8)
 
 
-  <p><i>Dashboard with financial summary and interactive charts</i></p>
+ <div style="display: flex; justify-content: space-between;">
+    <div>
+      <img src="https://github.com/user-attachments/assets/04b8f613-0c06-40d7-b49c-a2c990fa3262" width="380px" />
+      <p><i>Dashboard interface</i></p>
+    </div>-
+  </div>
   
   <br />
-  
+
   <div style="display: flex; justify-content: space-between;">
     <div>
       <img src="https://github.com/user-attachments/assets/381a3f9e-7063-4ccd-a9ef-27db7fad491f" width="380px" />
       <p><i>Income management interface</i></p>
     </div>
     <div>
-      <img src="/api/placeholder/380/250" alt="Expense Management" width="380px" />
+      <img src="https://github.com/user-attachments/assets/5a950ad0-cfff-4ea2-a61a-81d9c7d91bac" width="380px" />
       <p><i>Expense tracking with categories</i></p>
     </div>
   </div>
-  ![Dashboard 1](https://github.com/user-attachments/assets/de59b205-0c88-4d1b-be87-1421270c95fe)
+  
+
 
   <br />
   
@@ -33,10 +39,6 @@ A comprehensive, fully responsive financial management application built using t
     <div>
       <img src="/api/placeholder/380/250" alt="Mobile View" width="380px" />
       <p><i>Responsive mobile interface</i></p>
-    </div>
-    <div>
-      <img src="/api/placeholder/380/250" alt="Reports Export" width="380px" />
-      <p><i>Financial reports and data export</i></p>
     </div>
   </div>
 </div>
