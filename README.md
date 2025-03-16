@@ -14,7 +14,7 @@ A comprehensive, fully responsive financial management application built using t
     <div>
       <img src="https://github.com/user-attachments/assets/04b8f613-0c06-40d7-b49c-a2c990fa3262" width="380px" />
       <p><i>Dashboard interface</i></p>
-    </div>-
+    </div>
   </div>
   
   <br />
