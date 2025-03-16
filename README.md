@@ -8,8 +8,8 @@ A comprehensive, fully responsive financial management application built using t
 ## 📸 App Screenshots
 
 <div align="center">
-  <img src="![Dashboard 1](https://github.com/user-attachments/assets/29125642-2adc-48f2-a017-90d4ae8912f6)
-" alt="Dashboard Overview" width="800px" />
+  ![Dashboard 1](https://github.com/user-attachments/assets/9f107bc6-275d-4f24-9a1e-b1569598c0c6)
+
   <p><i>Dashboard with financial summary and interactive charts</i></p>
   
   <br />
