@@ -17,7 +17,7 @@ A comprehensive, fully responsive financial management application built using t
   
   <div style="display: flex; justify-content: space-between;">
     <div>
-      <img src="/api/placeholder/380/250" alt="Income Management" width="380px" />
+      <img src="https://github.com/user-attachments/assets/381a3f9e-7063-4ccd-a9ef-27db7fad491f" width="380px" />
       <p><i>Income management interface</i></p>
     </div>
     <div>
@@ -25,7 +25,8 @@ A comprehensive, fully responsive financial management application built using t
       <p><i>Expense tracking with categories</i></p>
     </div>
   </div>
-  
+  ![Dashboard 1](https://github.com/user-attachments/assets/de59b205-0c88-4d1b-be87-1421270c95fe)
+
   <br />
   
   <div style="display: flex; justify-content: space-between;">
