@@ -29,6 +29,37 @@ app.use("/api/v1/income" , incomeRoutes);
 app.use("/api/v1/expense" , expenseRoutes);
 app.use("/api/v1/dashboard" , dashboardRoutes);
 
+const express = require('express');
+const path = require('path');
+const mongoose = require('mongoose');
+
+const app = express();
+const port = process.env.PORT || 5000;
+
+// Middleware
+app.use(express.json());
+
+// Connect to MongoDB
+mongoose.connect(process.env.MONGO_URI, {
+  useNewUrlParser: true,
+  useUnifiedTopology: true,
+});
+
+// API Routes
+app.use('/api/expenses', require('./routes/expenses'));
+
+// Serve static files from React app
+app.use(express.static(path.join(__dirname, '../frontend/build')));
+
+app.get('*', (req, res) => {
+  res.sendFile(path.join(__dirname, '../frontend/build', 'index.html'));
+});
+
+app.listen(port, () => {
+  console.log(`Server is running on port ${port}`);
+});
+
+
 app.use("/uploads" , express.static(path.join(__dirname, "uploads")));
 
 const PORT = process.env.PORT || 5000;
